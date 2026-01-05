@@ -30,3 +30,4 @@ source .venv/bin/activate
 
 
 I want to create an ai assistant . Now a days am very much thinking about it . Then I got an idea to create a ai assistant fully offline. Running fully offline modelDiscription:
+
