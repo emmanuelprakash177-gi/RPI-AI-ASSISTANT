@@ -30,6 +30,7 @@ source .venv/bin/activate
 
 
 I want to create an ai assistant . Now a days am very much thinking about it . Then I got an idea to create a ai assistant fully offline. Running fully offline modelDiscription:
+
 ![RGB RING](https://github.com/user-attachments/assets/a56a7376-3813-42c1-84a9-bb1a46e237d7)
 
 
