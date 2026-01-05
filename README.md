@@ -33,4 +33,7 @@ I want to create an ai assistant . Now a days am very much thinking about it . T
 
 ![RGB RING](https://github.com/user-attachments/assets/a56a7376-3813-42c1-84a9-bb1a46e237d7)
 
+![p1](https://github.com/user-attachments/assets/6993cec9-73e2-47fc-99d6-ba0751cda45b)
+
+
 
