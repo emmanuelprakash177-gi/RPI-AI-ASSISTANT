@@ -26,6 +26,7 @@ Step-by-Step:
 4. The code interferes with the system, so the best practice is to run the code in a virtual environment
 
 python3 -m venv .venv
+
 source .venv/bin/activate
 
 
