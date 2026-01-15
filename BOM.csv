@@ -1,6 +1,6 @@
 Item , Description , Example/Link , Quantity , Unit Price (USD) , Total Price (USD) 
-Raspberry Pi 4 , Model B, 4GB or 8GB RAM , 1 , $83.00 , $83.00 
-MicroSD Card , 16GB or larger, Class 10/UHS-1 , HP 32GB MicroSD Memory Card SDHC mi210 Class 10, UHS-I, U1 Card 1 , (₹580)$6.50 , $6.50 
-USB Microphone , Plug-and-play USB mic , Array AM-C28 USB Plug & Play Conference 1 , $6.00 , $6.00 
-Carrying Case , Custom-designed enclosure , N/A (planned 3D print) , 1 , $10.00 , $10.00 
-PCB , pcb and items  cost , pcb file , 1 , $10.00 ,  $10.00  
+"Raspberry Pi 4 ", "Model B, 4GB or 8GB RAM ", 1 , $83.00 , $83.00 
+ "MicroSD Card ", "16GB or larger, Class 10/UHS-1 ", (₹580)$6.50 , $6.50 
+ "USB Microphone "," Plug-and-play USB mic ", $6.00 , $6.00 
+ "Carrying Case ", "Custom-designed enclosure" , 1 , $10.00 , $10.00 
+ "PCB ", "pcb and items  cost , pcb file ", 1 , $10.00 ,  $10.00  
