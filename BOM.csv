@@ -4,4 +4,6 @@ Item,Description,Quantity,Unit_Price(USD),Total_Price(USD)
 "USB Microphone "," Plug-and-play USB mic ",1,$6.00,$6.00 
 "Carrying Case ", "Custom-designed enclosure",1,$10.00,$10.00 
 "PCB ","pcb and items  cost ,pcb file ",1,$10.00,$10.00  
+
+
 "Total = $116"
