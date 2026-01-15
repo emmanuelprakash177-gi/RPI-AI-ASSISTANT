@@ -17,7 +17,8 @@ I as a prototype.
 | PCB | pcb and items  cost | pcb file | 1 | $10.00 |  $10.00  |  for rgb setup |
 **Estimated Total Cost:** **$116**
 
-<img width="1152" height="896" alt="1000052519" src="https://github.com/user-attachments/assets/6e16a859-324b-48eb-8652-a3978f025a13" />
+
+![1000055012](https://github.com/user-attachments/assets/ee70a7f1-2b55-467e-a8f2-ccca0eecc4ff)
 
 
 Step-by-Step: 
