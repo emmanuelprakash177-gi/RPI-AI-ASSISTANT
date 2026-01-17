@@ -15,7 +15,7 @@ I as a prototype.
 | Speaker | 3.5mm aux or Bluetooth | [Portronics 6W in Tune 6 HD Sound 2.0 Channel Portable Desktop PC Speaker, 3.5mm Audio Jack](https://www.amazon.in/Portronics-Channel-Portable-Desktop-Multimedia/dp/B0F1MSNCTY/ref=pd_sbs_d_sccl_2_18/524-2727408-4573007?pd_rd_w=APlJc&content-id=amzn1.sym.6d240404-f8ea-42f5-98fe-bf3c8ec77086&pf_rd_p=6d240404-f8ea-42f5-98fe-bf3c8ec77086&pf_rd_r=XXKPS2V30PB2Z13FN66W&pd_rd_wg=N4nnH&pd_rd_r=09f63b9d-6a3d-4ae3-b61a-c27049067e95&pd_rd_i=B0F1MSNCTY&psc=1) | 1 | $8.00 | $8.00 | Audio output . I have some old speaker|
 | Carrying Case | Custom-designed enclosure | N/A (planned 3D print) | 1 | $10.00 | $10.00 | Designed for portability and protection |
 | PCB | pcb and items  cost | pcb file | 1 | $10.00 |  $10.00  |  for rgb setup |
-**Estimated Total Cost:** **$116**
+**Estimated Total Cost:** **$90**
 
 ![Untitled](https://github.com/user-attachments/assets/870d8bde-c24d-46dc-b73e-fc64f37c4416)
 
