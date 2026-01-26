@@ -40,6 +40,9 @@ I want to create an ai assistant . Now a days am very much thinking about it . T
 ![RGB RING](https://github.com/user-attachments/assets/a56a7376-3813-42c1-84a9-bb1a46e237d7)
 
 ![p1](https://github.com/user-attachments/assets/6993cec9-73e2-47fc-99d6-ba0751cda45b)
+![q2](https://github.com/user-attachments/assets/43c69c29-a0e8-4e25-9bea-3736eea176bb)
+![q3](https://github.com/user-attachments/assets/91e5d16d-6e7a-42e5-a5e5-f247495d1681)
+
 
 
 
