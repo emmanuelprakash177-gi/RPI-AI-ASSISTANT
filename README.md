@@ -16,7 +16,7 @@ I as a prototype.
 | 3.7v Li-Po Rechargeable Battery | Battery                          | 1        | $4.00           | $4.00            |
 | Carrying Case                   | Custom-designed enclosure        | 1        | $10.00          | $10.00           |
 | PCB                             | pcb and items  cost ,pcb file    | 1        | $15.00          | $15.00           |
-| TOTAL PRICE                     |                                  |          |                 | $70              |
+| TOTAL PRICE                     |                                  |          |                 | $60              |
 
 **Estimated Total Cost:** **$70**
 
