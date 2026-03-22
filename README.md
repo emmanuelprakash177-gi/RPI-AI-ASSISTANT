@@ -18,7 +18,7 @@ I as a prototype.
 | PCB                             | pcb and items  cost ,pcb file    | 1        | $15.00          | $15.00           |
 | TOTAL PRICE                     |                                  |          |                 | $60              |
 
-**Estimated Total Cost:** **$70**
+**Estimated Total Cost:** **$60**
 
 
 
