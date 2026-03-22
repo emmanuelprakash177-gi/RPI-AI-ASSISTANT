@@ -20,8 +20,6 @@ I as a prototype.
 
 **Estimated Total Cost:** **$60**
 
-![Untitled](https://github.com/user-attachments/assets/870d8bde-c24d-46dc-b73e-fc64f37c4416)
-
 
 
 
