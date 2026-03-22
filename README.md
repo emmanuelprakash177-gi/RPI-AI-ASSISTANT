@@ -1,6 +1,6 @@
 
 # RPI AI ASSISTANT 
-The voice assistant is going to be a Raspberry Pi 4B that will run and output audio through a speaker whenever I ask it a question. The Raspberry Pi will run ai model locally, and I plan on making it run offline, meaning it doesn't need to rely on the Internet.
+<img width="738" height="424" alt="Assembled" src="https://github.com/user-attachments/assets/ac5fe4be-dc23-40a2-becd-9da98971ca66" />
 
 * As i first version i want to create it in online using gemini api . 
 I as a prototype.
