@@ -25,7 +25,6 @@ I as a prototype.
 
 
 
-![1000055012](https://github.com/user-attachments/assets/ee70a7f1-2b55-467e-a8f2-ccca0eecc4ff)
 
 
 Step-by-Step: 
