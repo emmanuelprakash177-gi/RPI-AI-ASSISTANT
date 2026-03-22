@@ -5,12 +5,12 @@ The voice assistant is going to be a Raspberry Pi 4B that will run and output au
 * As i first version i want to create it in online using gemini api . 
 I as a prototype.
 * The next version i will create the assistant and full offline 
-| Item                            | Description                      | Quantity | Unit_Price(USD) | Total_Price(USD) |
-|---------------------------------|----------------------------------|----------|-----------------|------------------|
-| Esp32 pcb                       | controlling the rpb ring and mic | 1        | $16.00          | $16.00           |
-| Rgb led                         | for the RGB ring pcb             | 46       | $0.05           | $3.00            |
-| INMP441 MEMS microphone module  | Plug-and-play USB mic            | 1        | $3.00           | $5.50            |
-| Esp32 module                    | for esp32 pcb                    | 1        | $6.00           | $6.00            |
+| Item                            | Description                      | Quantity | Unit_Price(USD) | Total_Price(USD) |,
+|---------------------------------|----------------------------------|----------|-----------------|------------------|,
+| Esp32 pcb                       | controlling the rpb ring and mic | 1        | $16.00          | $16.00           |,
+| Rgb led                         | for the RGB ring pcb             | 46       | $0.05           | $3.00            |,
+| INMP441 MEMS microphone module  | Plug-and-play USB mic            | 1        | $3.00           | $5.50            |,
+| Esp32 module                    | for esp32 pcb                    | 1        | $6.00           | $6.00            |,
 | 3.7v Li-Po Rechargeable Battery | Battery                          | 1        | $4.00           | $4.00            |
 | Carrying Case                   | Custom-designed enclosure        | 1        | $10.00          | $10.00           |
 | PCB                             | pcb and items  cost ,pcb file    | 1        | $15.00          | $15.00           |
