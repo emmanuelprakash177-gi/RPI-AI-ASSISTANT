@@ -25,15 +25,6 @@ I as a prototype.
 
 
 
-Step-by-Step: 
-1. To run this voice assistant, you have to be on your Raspberry Pi's terminal and check if your audio devices are connected to the device.
-2. Download the necessary packages/libraries; 
-4. The code interferes with the system, so the best practice is to run the code in a virtual environment
-
-python3 -m venv .venv
-
-source .venv/bin/activate
-
 
 I want to create an ai assistant . Now a days am very much thinking about it . Then I got an idea to create a ai assistant fully offline. Running fully offline modelDiscription:
 
