@@ -11,6 +11,7 @@ I’m building a custom-designed AI assistant that breathes life into my desk. B
 * As i first version i want to create it in online using gemini api . 
 I as a prototype.
 * The next version i will create the assistant and full offline
+* Using the device is as simple as a quick voice command or wake up word .
 
 ###### list:
 | Item                            | Description                      | Quantity | Unit_Price(USD) | Total_Price(USD) |
