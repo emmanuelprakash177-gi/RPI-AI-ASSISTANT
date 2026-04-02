@@ -5,7 +5,7 @@
 
 # Description 
 
-I’m building a custom-designed AI assistant that breathes life into my desk. By pairing an ESP32 with a high-sensitivity INMP441 MEMS microphone, I’ve created a device that doesn't just listen, but responds through a custom 46-LED RGB ring for visual feedback. It’s a compact, Li-Po powered companion designed to bridge the gap between hardware and high-level intelligence.
+I’m building a custom-designed AI assistant that breathes life into my desk and room. By pairing an ESP32 with a high-sensitivity INMP441 MEMS microphone, I’ve created a device that doesn't just listen, but responds through a custom 46-LED RGB ring for visually and by speaker for sound feedback.The vibrant light ring gives instant visual feedback.
 
 
 * As i first version i want to create it in online using gemini api . 
