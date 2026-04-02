@@ -13,6 +13,10 @@ I as a prototype.
 * The next version i will create the assistant and full offline
 * Using the device is as simple as a quick voice command or wake up word .
 
+
+We’ve become so used to black-box devices in our homes that we’ve forgotten what it’s like to have total digital privacy.
+I built this because I wanted the convenience of an AI assistant without the 'always-listening' baggage of big-tech hardware. 
+
 ###### list:
 | Item                            | Description                      | Quantity | Unit_Price(USD) | Total_Price(USD) |
 |---------------------------------|----------------------------------|----------|-----------------|------------------|
