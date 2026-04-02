@@ -2,7 +2,8 @@
 # RPI AI ASSISTANT 
 <img width="738" height="424" alt="Assembled" src="https://github.com/user-attachments/assets/ac5fe4be-dc23-40a2-becd-9da98971ca66" />
 
-
+<Br>
+## Description 
 I’m building a custom-designed AI assistant that breathes life into my desk. By pairing an ESP32 with a high-sensitivity INMP441 MEMS microphone, I’ve created a device that doesn't just listen, but responds through a custom 46-LED RGB ring for visual feedback. It’s a compact, Li-Po powered companion designed to bridge the gap between hardware and high-level intelligence.
 
 
