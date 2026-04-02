@@ -1,5 +1,5 @@
 Item,Description,Quantity,Unit_Price(USD),Total_Price(USD)
-Esp32 pcb,controlling the rpb ring and mic,1,$16.00,$16.00
+Esp32 pcb,controlling the rpb ring and mic,1,$15.00,$15.00
 Rgb led,for the RGB ring pcb,46,$0.05,$3.00
 INMP441 MEMS microphone module, Plug-and-play USB mic ,1,$3.00,$5.50
 Esp32 module ,for esp32 pcb ,1,$6.00,$6.00
