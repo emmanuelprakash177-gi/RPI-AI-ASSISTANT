@@ -33,7 +33,7 @@ I built this because I wanted the convenience of an AI assistant without the 'al
 **Estimated Total Cost:** **$60**
 
 
-
+![CAD Files](https://github.com/emmanuelprakash177-gi/RPI-AI-ASSISTANT/tree/25f24695d62bb7739b6a20bc5b12b92b5d871ddb/CAD)
 
 ![RGB RING](https://github.com/user-attachments/assets/a56a7376-3813-42c1-84a9-bb1a46e237d7)
 
